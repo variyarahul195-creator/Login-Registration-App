@@ -1,0 +1,33 @@
+#############################
+# Eclipse-specific files
+#############################
+.project
+.classpath
+.settings/
+.metadata/
+
+#############################
+# Build directories
+#############################
+bin/
+target/
+out/
+build/
+META-INF/
+WEB-INF/
+
+#############################
+# Java compiled files
+#############################
+*.class
+*.war
+*.ear
+*.jar
+
+#############################
+# Logs / temp files
+#############################
+*.log
+*.tmp
+*.bak
+*.sw*
